@@ -1,4 +1,4 @@
-# Bienvenido a mi perfil!
+# Bienvenido a mi perfil! <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 ## Soy Yago Silva! Aquí unas cosas sobre mí
 - 🎓 Estudiante de CS en UTEC
 - 😪 Paso bastante de mi tiempo *(más del que debería...)* en [Netflix](https://www.netflix.com/browse)
@@ -11,4 +11,4 @@
 ### Mini To-do List
 - [x] Pisar la universidad 
 - [ ] Realizar actividad fisica habitual
-- [ ] Codigo que compile al primer intento ~~(algún día)~~ 
+- [ ] Código que compile al primer intento ~~(algún día)~~ 
