@@ -1,16 +1,11 @@
-### Hi there 👋
+### Bienvenido a mi perfil!
+## Soy Yago Silva! Aquí unas cosas sobre mí
+- 🎓 Estudiante de CS en UTEC
+- 😪 Paso bastante de mi tiempo *(más del que debería...)* en [Netflix](https://www.netflix.com/browse)
+- 😍 Aprendiendo lenguajes de programación como 
 
-<!--
-**YagoSilvaA/YagoSilvaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](imagen/piton2.png) ![Cpp](imagen/cpp2.png)
+### Mini To-do List
+- [x] Pisar la universidad 
+- [ ] Realizar actividad fisica habitual
+- [ ] Codigo que compile al primer intento ~~(algún día)~~ 
