@@ -12,3 +12,4 @@
 - [x] Pisar la universidad 
 - [ ] Realizar actividad fisica habitual
 - [ ] Código que compile al primer intento ~~(algún día)~~ 
+- [x] Reírme cuando piden hackear algún usuario
